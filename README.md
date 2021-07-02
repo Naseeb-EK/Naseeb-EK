@@ -1,5 +1,5 @@
-### HI THERE
-I`M NASEEB
+# HI THERE
+## I`M NASEEB
 WELCOME TO MY GITHUB 👋 
 
 <!--
